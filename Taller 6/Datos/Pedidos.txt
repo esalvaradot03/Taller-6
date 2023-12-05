@@ -1,0 +1,14 @@
+     FACTURA    
+Cliente: Esteban
+Dirección Cliente: carrera 1
+ID Pedido: 0
+PrecioBase corral: 14000
+
+Precio Neto: 14000
+IVA : 2660
+Precio Neto: 16660
+
+Gracias por su compra :) 
+--------------------------------------
+
+
